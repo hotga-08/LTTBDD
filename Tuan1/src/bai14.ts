@@ -31,7 +31,7 @@ class Developer extends Employee {
 
 const manager = new Manager("An");
 
-const developer = new Developer("Thinh");
+const developer = new Developer("Th");
 
 // Manager dùng phương thức riêng
 manager.manageTeam();

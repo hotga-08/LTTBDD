@@ -36,7 +36,7 @@ class Student extends Person {
 }
 
 // Tạo Student
-const student = new Student("Thinh", 21, "A");
+const student = new Student("Th", 21, "A");
 
 // Hiển thị thông tin
 student.displayInfo();

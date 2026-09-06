@@ -34,7 +34,7 @@ class Account {
 
 const acc = new Account(
     1,
-    "thinh",
+    "t",
     "123456"
 );
 

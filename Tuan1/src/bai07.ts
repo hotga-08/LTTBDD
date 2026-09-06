@@ -23,7 +23,7 @@ class User {
 }
 
 // Tạo user
-const user = new User("Thinh");
+const user = new User("Th");
 
 // Không được dùng:
 // console.log(user.name);
@@ -33,7 +33,7 @@ const user = new User("Thinh");
 console.log(user.getName());
 
 // Đổi tên thông qua setter
-user.setName("Minh Thinh");
+user.setName("mm");
 
 // In tên mới
 console.log(user.getName());
